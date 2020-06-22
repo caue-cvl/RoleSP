@@ -1,3 +1,4 @@
+<!-- FUNÇÃO INDISPONIVEL POR NÃO ONLINE -->
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
