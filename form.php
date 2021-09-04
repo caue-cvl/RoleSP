@@ -6,7 +6,7 @@
 		$message = $_POST['message'];
 
 
-		$mailto = "caue.cavaliere@fatec.sp.gov.br";
+		$mailto = "caue.cavaliere@gmail.com";
 		$headers = "From: RoleSP - ". $email;
 		$txt = "Message from ".$name.".\n\n".$message;
 		mail($email, $subject, $txt, $headers);
